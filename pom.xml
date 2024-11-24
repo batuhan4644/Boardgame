@@ -23,6 +23,10 @@
     		<sonar.language>java</sonar.language>
 		
 	</properties>
+	<properties>
+  		<sonar.organization>batuhan4644</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 
 	<dependencies>
 		<dependency>
